@@ -1,9 +1,10 @@
-# Hello World! 👋
+<h3 align="center">Hello World! 👋</h3>
 
-Soy Jaime, desarrollador Full-Stack junior.
-Estoy en fase *develop* y busco empresa para *release*.
-
-**Ponme a prueba porque la master es mi objetivo.**
+<p align="center">
+Soy Jaime, desarrollador Full-Stack junior.<br />
+Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
+<strong>Ponme a prueba porque la master es mi objetivo.<strong>
+</p>
 
 ### Puedes encontrarme en:
 <a href="https://github.com/jaimegonzall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jaimegonzall" height="30" width="40" /></a>
