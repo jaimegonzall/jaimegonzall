@@ -21,7 +21,7 @@ const jaimegonzall = {
  front_end: {
                         experience_years: 1,
                         code: [Javascript, HTML, CSS, SASS, Python],
-                        tools: [React, Node, Jest, VUE, Angular],
+                        tools: [React, Node, Jest, VUE, Angular, Handlebars],
                         programs: [Figma, XD]
                       },
   Graphic_Designer: {
