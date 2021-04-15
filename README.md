@@ -5,13 +5,14 @@ Soy Jaime, desarrollador Full-Stack junior.<br />
 Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
 <strong>Ponme a prueba porque la master es mi objetivo.<strong>
 </p>
-
-### Puedes encontrarme en:
+  
+<p align="center">
 <a href="https://github.com/jaimegonzall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jaimegonzall" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaimegonzall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jaimegonzall" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/20929078/jaime-g-llist%c3%b3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jaimegonzall" height="30" width="40" /></a>
 <a href="https://instagram.com/llistografica" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="llistografica" height="30" width="40" /></a>
 <a href="https://www.behance.net/jaimegonzall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="jaimegonzall" height="30" width="40" /></a>
+</p>
 
 
 ```javascript
