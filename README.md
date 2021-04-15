@@ -1,5 +1,5 @@
+<p align="center">👨‍💻</p>
 <h3 align="center">Hello World! 👋</h3>
-
 <p align="center">
 Soy Jaime, desarrollador Full-Stack junior.<br />
 Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
