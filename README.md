@@ -39,7 +39,7 @@ const jaimegonzall = {
                       },
   graphicDesign: {
                         experience_years: 10,
-                        skills ["branding", "editorial", "photography", "printing", "content", "SEO"],
+                        skills: ["branding", "editorial", "photography", "printing", "content", "SEO"],
                         tools: ["Wordpress", "Prestashop", "Joomla", "Magento"],
                         programs: [Photoshop, Illustrator, Indesign, Lightroom]
                       },
