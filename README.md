@@ -1,6 +1,7 @@
 <h3 align="center">Hello World! 👋</h3>
 <p align="center">
 Soy Jaime, desarrollador Full-Stack junior.<br />
+Me encantan las metodologías agile, I♥DesignSprint<br />
 Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
 <strong>Ponme a prueba porque la master es mi objetivo.<strong>
 </p>
@@ -16,21 +17,34 @@ Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
 
 ```javascript
 const jaimegonzall = {
-  code: [Javascript, HTML, CSS, SASS, Python],
-  tools: [React, Node, Jest, VUE, Angular],
-  certificate: ["Scrum Developer"],
- front_end: {
-                        experience_years: 1,
-                        code: [Javascript, HTML, CSS, SASS, Python],
-                        tools: [React, Node, Jest, VUE, Angular, Handlebars],
-                        programs: [Figma, XD]
+  myLoves: [Javascript, HTML, CSS, SASS],
+  achievements: {
+                        HackatonF5: {
+                          date: ["2021-03-22", "2021-03-23"],
+                          proyect: "Herramienta para fijar y seguir objetivos y actividades individuales de la vida diaria para personas con síndrome de Asperger.",
+                          reward: "First position"
+                        },
                       },
-  Graphic_Designer: {
+  agile: {
+                        Scrum: {certificate: true},
+                        DesignSprint: {certificate: false}
+                      },
+  methodologies: ["atomicDesign", "BEM", "SOLID", "testing", "TDD"], 
+  development: {
+                        experience_years: 1,
+                        code: [Javascript, HTML, CSS, SASS],
+                        tools: [Node, Express, Jest, VUE, MySQL, MongoDB, Git],
+                        templateEngines: [Mustache, Handlebars, Ejs],
+                        programs: [VSC, Figma, XD]
+                      },
+  graphicDesign: {
                         experience_years: 10,
+                        skills ["branding", "editorial", "photography", "printing", "content", "SEO"],
+                        tools: ["Wordpress", "Prestashop", "Joomla", "Magento"],
                         programs: [Photoshop, Illustrator, Indesign, Lightroom]
                       },
-
- challenge: "Don't stop"
+  challenge: "Don't stop",
+  nextSteps: [Python, Angular, React, Java, ReactNative, Larabel, Svelte, Django, Flask, Composer, Symfony]
 }
 ```
 
@@ -59,8 +73,8 @@ ___
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 
 #### Bases de datos
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 
 #### Testing
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
