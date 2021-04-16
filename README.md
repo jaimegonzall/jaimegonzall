@@ -43,8 +43,8 @@ const jaimegonzall = {
                         tools: ["Wordpress", "Prestashop", "Joomla", "Magento"],
                         programs: [Photoshop, Illustrator, Indesign, Lightroom]
                       },
-  challenge = "Don't stop",
-  nextSteps: [Angular, React, Python, Java, ReactNative, Larabel, Svelte, Django, Flask, Composer, Symfony]
+  nextSteps: [Angular, React, Python, Java, ReactNative, Larabel, Svelte, Django, Flask, Composer, Symfony],
+  challenge: "Don't stop"
 }
 ```
 
