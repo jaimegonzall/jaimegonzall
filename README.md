@@ -5,6 +5,12 @@ Me encantan las metodologías agile, I♥DesignSprint<br />
 Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
 <strong>Ponme a prueba porque la master es mi objetivo.<strong>
 </p>
+
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/>
+<a href="https://www.figma.com/proto/Oi70b6aIZ3Y3J4ZWJ4DBBR/Sketch-v2?node-id=530%3A1">Proyecto Asociación Asperger Asturias</a> | 
+<a href="https://www.figma.com/proto/mwLXfFiOlWvXNZQQh3Enkj/Firulaap-Mockup2?node-id=0%3A1">Proyecto Firulais</a>
+</p>
   
 <p align="center">
 <a href="https://github.com/jaimegonzall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jaimegonzall" height="30" width="40" /></a>
@@ -80,19 +86,3 @@ ___
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-
-<!--
-**jaimegonzall/jaimegonzall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
