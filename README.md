@@ -8,8 +8,8 @@ Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/>
-<a href="https://www.figma.com/proto/Oi70b6aIZ3Y3J4ZWJ4DBBR/Sketch-v2?node-id=530%3A1">Proyecto Asociación Asperger Asturias</a> | 
-<a href="https://www.figma.com/proto/mwLXfFiOlWvXNZQQh3Enkj/Firulaap-Mockup2?node-id=0%3A1">Proyecto Firulais</a>
+<a target="_blank" href="https://www.figma.com/proto/Oi70b6aIZ3Y3J4ZWJ4DBBR/Sketch-v2?node-id=530%3A1">Proyecto Asociación Asperger Asturias</a> | 
+<a target="_blank" href="https://www.figma.com/proto/mwLXfFiOlWvXNZQQh3Enkj/Firulaap-Mockup2?node-id=0%3A1">Proyecto Firulais</a>
 </p>
   
 <p align="center">
