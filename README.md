@@ -49,7 +49,7 @@ const jaimegonzall = {
                         tools: ["Wordpress", "Prestashop", "Joomla", "Magento"],
                         programs: [Photoshop, Illustrator, Indesign, Lightroom]
                       },
-  nextSteps: [PHP, Angular, React, Python, Java, ReactNative, Larabel, Svelte, Django, Flask, Composer, Symfony],
+  nextSteps: [React, ReactNative, Angular, Python, Django, Flask, PHP, Composer, Larabel, Symfony, Java],
   challenge: "Don't stop"
 }
 ```
