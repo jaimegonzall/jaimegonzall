@@ -3,7 +3,7 @@
 Soy Jaime, desarrollador Full-Stack junior.<br />
 Me encantan las metodologías agile, I♥DesignSprint<br />
 Estoy en fase <em>develop</em> y busco empresa para <em>release</em>.<br />
-<strong>Ponme a prueba porque la master es mi objetivo.<strong>
+<strong style="display:none">Ponme a prueba porque la master es mi objetivo.<strong>
 </p>
 
 <p align="center">
